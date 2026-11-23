@@ -9,6 +9,10 @@ export const metadata: Metadata = {
   authors: [{ name: "RIFTED CARS LLC" }],
   creator: "RIFTED CARS LLC",
   publisher: "RIFTED CARS LLC",
+  icons: {
+    icon: "/icon.svg",
+    shortcut: "/icon.svg",
+  },
   keywords: ["Mandarin Gourmet", "RIFTED CARS LLC", "Linda Hughes", "San Jose California"],
   other: {
     operator: "RIFTED CARS LLC",
