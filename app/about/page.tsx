@@ -13,7 +13,17 @@ export default function AboutPage() {
         focus on generous hospitality, carefully prepared classics, and food that
         feels welcoming from the first bite.
       </p>
-      <h2>Business information</h2>
+      <h2>Restaurant location</h2>
+      <address>
+        Mandarin Gourmet
+        <br />
+        5560 Santa Teresa Blvd
+        <br />
+        San Jose, CA 95123
+        <br />
+        United States of America
+      </address>
+      <h2>Operating company</h2>
       <address>
         RIFTED CARS LLC
         <br />
@@ -24,9 +34,13 @@ export default function AboutPage() {
         United States of America
       </address>
       <p>
-        Phone: <a href="tel:+12512834593">+1-251-283-4593</a>
+        Operator phone: <a href="tel:+12512834593">+1-251-283-4593</a>
         <br />
         Email: <a href="mailto:info@riftedcars.com">info@riftedcars.com</a>
+      </p>
+      <p className="info-page__note">
+        The restaurant location and the operating company address are listed
+        separately to avoid confusing the restaurant with its operator.
       </p>
     </InfoPage>
   );

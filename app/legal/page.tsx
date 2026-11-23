@@ -8,7 +8,26 @@ export default function LegalPage() {
         general business, privacy, ordering, accessibility, and refund information
         for this website.
       </p>
+      <h2>Business identity</h2>
+      <p>
+        Mandarin Gourmet is the restaurant name presented on this website. RIFTED
+        CARS LLC is the operating company listed for the restaurant, and Linda
+        Hughes is the founder and main chef. The restaurant name and operating
+        company are intentionally identified separately so the relationship is
+        clear.
+      </p>
       <h2>Business contact</h2>
+      <p>Restaurant address:</p>
+      <address>
+        Mandarin Gourmet
+        <br />
+        5560 Santa Teresa Blvd
+        <br />
+        San Jose, CA 95123
+        <br />
+        United States of America
+      </address>
+      <p>Operating company address:</p>
       <address>
         RIFTED CARS LLC
         <br />
